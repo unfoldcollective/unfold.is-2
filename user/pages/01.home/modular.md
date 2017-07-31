@@ -8,13 +8,9 @@ content:
         by: default
         dir: asc
         custom:
+            - _portfolio
             - _intro
             - _features
-            - _services
-            - _swag
-            - _portfolio
             - _ignite
-            - _team
-            - _subscribe
             - _contact
 ---

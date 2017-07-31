@@ -1,37 +1,22 @@
 ---
 title: Portfolio
 portfolio:
-  - title: "Creative Minds"
-    img: portfolio-01.jpg
+  - title: "Link"
+    img: unfold-link.jpg
     img_text: View More
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-  - title: "Creative Hearts"
-    img: portfolio-02.jpg
+    content: "We were commissioned by the Warwick Manufacturing Group to make tangible the concept of supply chains"
+  - title: "Bloom"
+    img: unfold-bloom-flower.jpg
     img_text: View More
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
+    content: "Generative data visualisation for the digital library of the Goethe Institut Bratislava"
     delay: 0.5
-  - title: "Creative Ideas"
-    img: portfolio-03.jpg
+  - title: "Festival Design Kit"
+    img: unfold-festival-design-kit.jpg
     img_text: View More
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-    delay: 1
-  - title: "Creative Minds"
-    img: portfolio-01.jpg
-    img_text: View More
-    img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-  - title: "Creative Hearts"
-    img: portfolio-02.jpg
-    img_text: View More
-    img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-  - title: "Creative Ideas"
-    img: portfolio-03.jpg
-    img_text: View More
-    img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."       
+    content: "We 3D scanned Slovakia's biggest festival to create a custom spatial design toolkit"
+    delay: 1     
 
 ---

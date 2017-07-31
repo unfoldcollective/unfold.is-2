@@ -1,6 +1,6 @@
 ---
 title: Introduction
 ---
-# A CREATIVE PORTFOLIO TEMPLATE {.arrow}
+# Interactive experiences bridging digital & physical
 
-Sed a lorem quis neque interdum [consequat ut sed sem](#). Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent id tempor ipsum. Fusce at massa ac nunc porta fringilla sed eget neque. Quisque quis pretium nulla. Fusce eget bibendum neque, vel volutpat augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+We help cultural organisations and brands to make their public presence tangible by connecting their digital activities to the tangible world around us. By creating physical and non-physical immersive experiences we make sure that your audience is an active participator of your event, exhibition, space, product or a library.

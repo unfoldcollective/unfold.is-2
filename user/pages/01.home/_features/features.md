@@ -1,23 +1,23 @@
 ---
 title: Features
 features:
-  - title: "Digital Design"
+  - title: "Research & Development"
     icon: laptop shadow
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+    content: "we will research and develop ideas for the specific challenge you face"
     link: ""
     text: ""  
-  - title: "Web Development"
+  - title: "Concepting & Design"
     icon: code shadow
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+    content: "already have an idea or a solution? We will shape it into a consistent concept designed according to your needs"
     link: ""
     text: ""
     delay: "05"   
-  - title: "Creative Direction"
+  - title: "Production"
     icon: heart shadow
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+    content: "working with the best and trusted professionals in the field we will oversee the production of a designed product"
     link: ""
     text: ""
-    delay: "1"     
+    delay: "1"
 ---
 
-# Love what you do, and you'll do it well {.arrow}
+# Talk to us about

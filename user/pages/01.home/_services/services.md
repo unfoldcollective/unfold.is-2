@@ -1,4 +1,5 @@
 ---
+published: false
 title: Responsive Design
 slides:
   - title: "Responsive Design Specialists"

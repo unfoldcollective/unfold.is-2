@@ -1,21 +1,18 @@
 ---
 title: Get in Touch
 boxes:
-  - icon: map-marker
-    title: Address
-    description: Level 6, 23 Pitt St, Sydney
-  - icon: mobile
-    title: Phone
-    description: +61 9 211 3747
   - icon: paper-plane
-    title: Email
-    description: <a href="#">hey@halcyondays.com</a>
-social:
-  - icon: dribbble
-    url: "#"
+    title: Write us
+    description: <a href="mailto:hello@unfold.is">hello@unfold.is</a>
   - icon: twitter
-    url: "#"
-  - icon: envelope
-    url: "#"
+    title: Tweet us
+    description: <a href="https://twitter.com/unfoldsays">@UnfoldSays</a>
+  - icon: behance
+    title: See our work
+    description: <a href="https://www.behance.net/unfoldcollective">Behance Portfolio</a>
 ---
-# Drop us a line {.arrow}
+# Drop us a line
+
+We would love you to write us questions to hello@unfold.is, tweet us your news to @UnfoldSays and say hi calling at +421918 759 808.
+
+<a href="mailto:hellounfoldcollective@gmail.com" data-reactid=".0.1.0.4.3">hellounfoldcollective@gmail.com</a>
