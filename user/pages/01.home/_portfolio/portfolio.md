@@ -10,7 +10,7 @@ portfolio:
     img: unfold-bloom-flower-780.jpg
     img_text: View More
     img_url: "https://www.behance.net/gallery/55104851/BLOOM-Generative-Visualisation"
-    content: "A generative visualization showing what people are borring from the digital library of the Goethe Institut"
+    content: "A generative visualization showing what people are borrowing from the digital library of the Goethe Institut"
     delay: "05"
   - title: "Festival Design Kit"
     img: unfold-festival-design-kit-780.jpg
