@@ -1,0 +1,11 @@
+email: lucia@unfold.is
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Lucia Dubacova'
+title: null
+state: enabled
+hashed_password: $2y$10$vjXzGsRxQ5uK3kI60jGoNujHUl.bckRLPihuV7UU09NRzUV3TbE/q
