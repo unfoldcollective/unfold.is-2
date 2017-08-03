@@ -11,7 +11,7 @@ portfolio:
     img_text: View More
     img_url: "https://www.behance.net/gallery/55104851/BLOOM-Generative-Visualisation"
     content: "Generative data visualisation for the digital library of the Goethe Institut Bratislava"
-    delay: 0.5
+    delay: "05"
   - title: "Festival Design Kit"
     img: unfold-festival-design-kit-780.jpg
     img_text: View More
