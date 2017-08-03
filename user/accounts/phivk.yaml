@@ -1,0 +1,11 @@
+email: philo@unfold.is
+fullname: 'Philo van Kemenade'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$w.uSgHrwitj.KcjI/4n52.3FzYI2Fqb2/kbMARTxtFi55kxjB6.vy
