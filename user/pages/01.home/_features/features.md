@@ -2,7 +2,7 @@
 title: Features
 features:
   - title: "Research & Development"
-    icon: search shadow
+    icon: flask shadow
     content: "we will research and develop ideas for the specific challenge you face"
     link: ""
     text: ""  
