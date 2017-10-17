@@ -1,5 +1,5 @@
 ---
-title: Features
+title: What we do
 features:
   - title: "Research & Development"
     icon: flask shadow

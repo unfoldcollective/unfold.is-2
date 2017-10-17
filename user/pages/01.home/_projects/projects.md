@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Projects
 portfolio:
   - title: "Link"
     img: unfold-link-780.jpg

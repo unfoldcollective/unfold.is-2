@@ -1,5 +1,6 @@
 ---
 title: Introduction
+hidemenu: true
 ---
 # Interactive experiences bridging digital & physical
 
