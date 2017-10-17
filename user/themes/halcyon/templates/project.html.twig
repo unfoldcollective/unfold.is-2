@@ -1,0 +1,15 @@
+{% extends 'partials/base.html.twig' %}
+{% block header %}
+     {% include 'partials/header.html.twig' %}
+{% endblock %}
+{% block content %}
+<section class="template-default section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        {{ page.content }}
+      </div>
+    </div>
+  </div>
+</section>
+{% endblock %}

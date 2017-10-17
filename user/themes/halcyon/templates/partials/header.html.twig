@@ -1,18 +1,44 @@
+{% set show_onpage_menu = header.onpage_menu == true or header.onpage_menu is null %}
+{% set show_home_link = page.template != "modular" %}
 <header id="home">
   {% block navigation %}
   {% include 'partials/navigation.html.twig' %}
   {% endblock %}
-  <section class="hero text-shadow" id="hero">
+
+  {% if page.header.hero_image %}
+  <section class="hero text-shadow" style="background: url({{page.media[page.header.hero_image].brightness(-70).url()}}) no-repeat center;">
+  {% else %}
+  <section class="hero text-shadow">
+  {% endif %}
+
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-right navicon">
-          <a id="nav-toggle" class="nav_slide_button" href="#"><span></span></a>
+          {% if show_onpage_menu %}
+            <a id="nav-toggle" class="nav_slide_button" href="#"><span></span></a>
+          {% endif %}
+          {% if show_home_link %}
+            <a href="{{home_url}}">
+              <img id="nav-home" src="{{url('theme://img/unfold-logo-white.png')}}" alt="Home" title="Home">  
+            </a>
+          {% endif %}
         </div>
       </div>
       <div class="row hero-content">
         <div class="col-md-8 col-md-offset-2 text-center inner">
-          <h1 class="animated fadeInDown">{{ site.header.title }}</h1>
+          
+          {% if page.header.hero_title %}
+          <h1 class="animated fadeInDown page">{{ page.header.hero_title }}</h1>
+          {% else %}
+          <h1 class="animated fadeInDown site">{{ site.header.title }}</h1>
+          {% endif %}
+
+          {% if page.header.hero_title %}
+          <p class="animated fadeInUp delay-05s">{{ page.header.hero_subtitle }}</p>
+          {% else %}
           <p class="animated fadeInUp delay-05s">{{ site.header.description }}</p>
+          {% endif %}
+          
         </div>
       </div>
       <div class="row">

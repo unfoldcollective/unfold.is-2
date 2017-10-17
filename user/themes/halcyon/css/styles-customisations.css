@@ -4,6 +4,9 @@ General
 .text-shadow {
   text-shadow: 0px 0px 1rem rgba(0,0,0,1);
 }
+.absolute {
+  position: absolute;
+}
 /* ==========================================================================
 Hero
 ========================================================================== */
@@ -74,4 +77,12 @@ Navigation
 ========================================================================== */
 #nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
   background: #fff; 
+}
+
+#nav-home {
+    position: absolute;
+    top: -7px;
+    left: 15px;
+    width: 85px;
+    cursor: pointer;
 }
