@@ -8,9 +8,10 @@ content:
         by: default
         dir: asc
         custom:
-            - _portfolio
+            - _projects
             - _intro
-            - _features
+            - _what_we_do
             - _ignite
             - _contact
+            - _to_top
 ---
